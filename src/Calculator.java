@@ -44,7 +44,7 @@ public class Calculator implements ActionListener {
 
         // Setting an icon
         try {
-            Image img = ImageIO.read(new File("resources/calculator.png"));
+            Image img = ImageIO.read(new File("resources/icon.png"));
             frame.setIconImage(img);
         } catch (IllegalArgumentException | IOException e) {
             System.out.println("Failed to set the app's icon.");

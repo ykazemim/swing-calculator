@@ -2,6 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionListener;
 
+
 public class MyButton extends JButton {
     private static final Dimension defaultButtonSize = (new JButton("JAVA")).getPreferredSize();
 
