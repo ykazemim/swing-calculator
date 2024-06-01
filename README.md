@@ -36,9 +36,10 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Screenshots
 
-![Main Interface](screenshots/calculator.png)
+![Main Interface](screenshots/screenshot.png)
 
 
 ## Assignment
 
 This project was originally created as an assignment for the Advanced Programming course at _Amirkabir University of Technology (AUT)_.
+
